@@ -1,6 +1,3 @@
-# express-demo
-Photos upload &amp; show based on Nodejs.Express Skeleton.
-
 # Description
 基于Express框架，实现图片的上传与查看。
 
@@ -8,5 +5,5 @@ Photos upload &amp; show based on Nodejs.Express Skeleton.
 
 # Usage
 ```
-$ npm install
+$ npm install && node app
 ```
